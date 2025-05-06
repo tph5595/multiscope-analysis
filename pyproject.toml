@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "numpy>=2.2.5",
+    "rtree>=1.4.0",
+    "tqdm>=4.67.1",
 ]
