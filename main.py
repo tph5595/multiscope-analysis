@@ -41,8 +41,8 @@ def findClosest(tree, p):
     return 
 
 def main():
-    num_points = 10000
-    dim = 400
+    num_points = 100
+    dim = 3000
     points = sample_spherical(num_points, dim)
 
 
